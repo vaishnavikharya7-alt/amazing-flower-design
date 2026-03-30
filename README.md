@@ -9,12 +9,6 @@ A beautiful collection of flower designs created with Python Turtle Graphics. Sh
 
 Visit the live website: [https://amazing-flower-design.vercel.app](https://amazing-flower-design.vercel.app)
 
-## 📸 Preview
-
-![Flower Gallery](https://via.placeholder.com/800x400/667eea/ffffff?text=Amazing+Flower+Designs)
-
-## 🎨 Features
-
 - 🌸 Rainbow gradient flower designs
 - ✨ Animated color transitions
 - 🔷 Geometric patterns
