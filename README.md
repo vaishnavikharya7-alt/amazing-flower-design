@@ -23,3 +23,22 @@ All flower designs are created using Python's built-in Turtle graphics library. 
 ```bash
 python flower_name.py
 
+
+🛠️ Technologies Used
+HTML5
+
+CSS3 (Flexbox, Grid, Animations)
+
+JavaScript
+
+Python Turtle Graphics
+
+📞 Connect
+GitHub: @vaishnavikharya7-alt
+
+Instagram: @hey.vaixhu
+
+LinkedIn: Vaishnavi Kharya
+
+Made with ❤️ using Python Turtle Graphics
+
